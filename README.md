@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Preview Showcase](images/profile.png) <!-- Update this image later if you have a screenshot of the site -->
+
 
 A responsive, high-performance personal portfolio website built to showcase my skills, experience, and projects in AI/ML, Data Analytics, and Full-Stack Development. Designed with a premium dark glassmorphism aesthetic.
 
