@@ -5,7 +5,7 @@
 A responsive, high-performance personal portfolio website built to showcase my skills, experience, and projects in AI/ML, Data Analytics, and Full-Stack Development. Designed with a premium dark glassmorphism aesthetic.
 
 ## 🌟 Live Demo
-[https://github.com/Varshini-rupa/Varshini-rupa.github.io.git]
+[My_Website](https://varshini-rupa.github.io)
 
 ## 🛠️ Built With
 - **HTML5** & **CSS3** (Vanilla UI styling)
